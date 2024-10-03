@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://streak-stats.demolab.com?user=bumcums&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bumcums&layout=compact&theme=transparent&hide_border=true)
 <!--
 **bumcums/bumcums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
